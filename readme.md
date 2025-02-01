@@ -8,9 +8,9 @@ solution:
 program that scans the source (drive/folder/image file) for stuff to move over
 
 - [x] Programs
-- [ ] %userprofile%
+- [ ] %userprofile% (includes user registry)
 - [ ] registry entires both related to programs like putty sessions and windows configuration like file explorer right click
-  - environment variables
+  - [ ] environment variables
 - [ ] desktop icons
   - [ ] desktop icon registry bag
 - [ ] taskbar icons

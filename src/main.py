@@ -3,7 +3,7 @@ from tkinter import ttk
 from tkinter import filedialog as fd
 from tkinter.messagebox import showinfo
 
-from service.scanning import scan_dir
+from service.scan import scan_dir
 from service.ui.checkentry import create_entry
 from service.ui.collapseablepanel import CollapsablePanel
 from service.ui.scrollableframe import ScrollableFrame

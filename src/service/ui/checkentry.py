@@ -1,5 +1,5 @@
 from tkinter import LEFT, Widget, ttk,ACTIVE
-from service.scanning import CopyEntry
+from service.scan import CopyEntry
 from service.ui.collapseablepanel import CollapsablePanel
 
 

@@ -1,4 +1,9 @@
-from winreg import OpenKey,HKEY_LOCAL_MACHINE,HKEY_CURRENT_USER,KEY_ALL_ACCESS,EnumKey
+from winreg import OpenKey,HKEY_LOCAL_MACHINE,HKEY_CURRENT_USER,KEY_ALL_ACCESS,EnumKey,ConnectRegistry
+
+
+
+
+
 
 
 
